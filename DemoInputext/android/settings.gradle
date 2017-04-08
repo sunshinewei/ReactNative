@@ -1,0 +1,3 @@
+rootProject.name = 'DemoInputext'
+
+include ':app'
